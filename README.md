@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Adrika Tiwari
 
-### UI/UX Designer & React Developer
+### UI/UX + React Developer
 
 I bridge the gap between design and development by crafting beautiful, user-centric interfaces and bringing them to life with clean, efficient React code.
 
