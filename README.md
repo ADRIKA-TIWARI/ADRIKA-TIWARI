@@ -7,7 +7,7 @@ I bridge the gap between design and development by crafting beautiful, user-cent
 - 🎨 **UI/UX Design:** User Research, Wireframing, Prototyping (Figma), Visual Design
 - 💻 **Frontend Engineering:** React.js, JavaScript (ES6+), HTML5, CSS3/Tailwind CSS
 - 🚀 **Focus:** Building high-performance, accessible, and pixel-perfect web applications
-- 🌱 **Currently learning:** Advanced Next.js and Micro-frontend architectures
+- 🌱 **Currently learning:** Next.js
 - 💬 **Ask me about:** Component libraries, responsive design, and state management
 
 ### 🛠️ Tech Stack & Tools
