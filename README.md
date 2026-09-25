@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi 👋, I'm Adrika Tiwari
 
-<!--
-**ADRIKA-TIWARI/ADRIKA-TIWARI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### UI/UX Designer & React Developer
 
-Here are some ideas to get you started:
+I bridge the gap between design and development by crafting beautiful, user-centric interfaces and bringing them to life with clean, efficient React code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 **UI/UX Design:** User Research, Wireframing, Prototyping (Figma), Visual Design
+- 💻 **Frontend Engineering:** React.js, JavaScript (ES6+), HTML5, CSS3/Tailwind CSS
+- 🚀 **Focus:** Building high-performance, accessible, and pixel-perfect web applications
+- 🌱 **Currently learning:** Advanced Next.js and Micro-frontend architectures
+- 💬 **Ask me about:** Component libraries, responsive design, and state management
+
+### 🛠️ Tech Stack & Tools
+
+Figma React.js JavaScript HTML5 CSS3 Tailwind CSS Git/GitHub
